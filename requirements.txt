@@ -4,4 +4,4 @@ opencv-python
 PyMatting
 streamlit
 moviepy
-ffmpeg
+ffmpeg-python
